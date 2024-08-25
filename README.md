@@ -11,15 +11,7 @@ This project is a turn-based, chess-like strategy game where two players control
 - **Three Character Types:** Each character type has unique movement and attack patterns.
 - **WebSocket Integration:** Real-time communication between the server and the client.
 
-## Overview 
-### Demo
-<img src="Screenshots/Demo.png" alt="Local Image" width="400" height="300">
 
-### Console Output
-<img src="Screenshots/Image1-Console.png" alt="Local Image" width="400" height="300">
-
-### Terminal Logs
-<img src="Screenshots/Image2-Terminal.png" alt="Local Image" width="400" height="300">
 
 ## Technology used 
 
