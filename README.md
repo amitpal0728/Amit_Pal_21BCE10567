@@ -61,7 +61,7 @@ NodeJs
 - The game will notify you when a player wins.
 
 
-##Demo Images
+## Demo Images
 
 ![Demo2](https://github.com/user-attachments/assets/e407fe8e-da65-4bc0-b5a5-da7c0928a3b9)
 
