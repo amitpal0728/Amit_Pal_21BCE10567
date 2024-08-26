@@ -10,7 +10,6 @@ This project is a turn-based, chess-like strategy game where two players control
 - **Three Character Types:** Each character type has unique movement and attack patterns.
 - **WebSocket Integration:** Real-time communication between the server and the client.
 
-<picture>
 ## Project Structure
  
 /Amit_Pal_21BCE10567
@@ -23,7 +22,6 @@ This project is a turn-based, chess-like strategy game where two players control
 ├── package.json
 └── package-lock.json
 
-</picture>
 
 
 ## Technology used 
