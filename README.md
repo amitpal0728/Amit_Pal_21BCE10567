@@ -76,7 +76,7 @@ NodeJs
 - ws: WebSocket library for real-time communication.
 
 ## License
-- This project is licensed under the Apache License. See the LICENSE file for details.
+- This project is licensed under the Apache License2.0 . See the LICENSE file for details.
 
 ## Acknowledgments
 - Thanks to HitWicket for the opportunity to showcase my skills and to present my intrest in the company.
