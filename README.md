@@ -61,6 +61,15 @@ NodeJs
 - The game will notify you when a player wins.
 
 
+##Demo Images
+
+![Demo2](https://github.com/user-attachments/assets/e407fe8e-da65-4bc0-b5a5-da7c0928a3b9)
+
+
+![Demo3](https://github.com/user-attachments/assets/18157853-1635-4937-943f-4e4ec950f76d)
+
+![Demo4](https://github.com/user-attachments/assets/7be7f684-4f46-4794-a1a7-e6b68fb3ec34)
+
 
 ## Dependencies
 - Express: Web server framework.
