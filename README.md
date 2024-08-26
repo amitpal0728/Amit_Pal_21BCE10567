@@ -50,25 +50,21 @@ NodeJs
 
 ## How to Play
 
-Click on a piece to select it.
-
-Click on a highlighted square to move the piece.
-
-The turn indicator will update to show whose turn it is.
-
-The game will notify you when a player wins.
+- Click on a piece to select it.
+- Click on a highlighted square to move the piece.
+- The turn indicator will update to show whose turn it is.
+- The game will notify you when a player wins.
 
 
 
 ## Dependencies
-
-Express: Web server framework.
-
-ws: WebSocket library for real-time communication.
+- Express: Web server framework.
+- ws: WebSocket library for real-time communication.
 
 ## License
-This project is licensed under the Apache License. See the LICENSE file for details.
+- This project is licensed under the Apache License. See the LICENSE file for details.
 
 ## Acknowledgments
-Thanks to HitWicket for the opportunity to showcase my skills and to present my intrest in the company.
-Thanks to the open-source community for providing the tools and libraries used in this project.
+- Thanks to HitWicket for the opportunity to showcase my skills and to present my intrest in the company.
+- Thanks to the open-source community for providing the tools and libraries used in this project.
+
