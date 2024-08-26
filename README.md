@@ -12,14 +12,23 @@ This project is a turn-based, chess-like strategy game where two players control
 
 ## Project Structure
 /Amit_Pal_21BCE10567
+
 ├── /client
+
 │   ├── index.html
+
 │   ├── styles.css
+
 │   └── chess.js
+
 ├── /server
+
 │   └── server.js
+
 ├── package.json
+
 └── package-lock.json
+
 
 
 
