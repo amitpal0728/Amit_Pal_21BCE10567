@@ -33,9 +33,12 @@ NodeJs
 
 
 ## Client Directory
- > `index.html` : Contains the HTML layout for the game board.
- > `styles.css`: Provides the styling for the game board and pieces.
- > `chess.js`: Implements the game logic and handles user interactions.
+> `index.html` : Contains the HTML layout for the game board.
+
+> `styles.css`: Provides the styling for the game board and pieces.
+
+> `chess.js`: Implements the game logic and handles user interactions.
+
 
 ## Server Directory
  > `server.js`: Sets up an Express server and WebSocket communication for real-time game updates.
