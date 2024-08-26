@@ -11,7 +11,6 @@ This project is a turn-based, chess-like strategy game where two players control
 - **WebSocket Integration:** Real-time communication between the server and the client.
 
 ## Project Structure
-
 /Amit_Pal_21BCE10567
 ├── /client
 │   ├── index.html
@@ -34,12 +33,12 @@ NodeJs
 
 
 ## Client Directory
-> `index.html` : Contains the HTML layout for the game board.
-> `styles.css`: Provides the styling for the game board and pieces.
-> `chess.js`: Implements the game logic and handles user interactions.
+-> `index.html` : Contains the HTML layout for the game board.
+-> `styles.css`: Provides the styling for the game board and pieces.
+-> `chess.js`: Implements the game logic and handles user interactions.
 
 ## Server Directory
-> `server.js`: Sets up an Express server and WebSocket communication for real-time game updates.
+-> `server.js`: Sets up an Express server and WebSocket communication for real-time game updates.
 
 ## Installation
 ### Install Server Dependencies 
@@ -50,23 +49,19 @@ NodeJs
 >`npm start`
 
 ## How to Play
-
-   -Click on a piece to select it.
-   -Click on a highlighted square to move the piece.
-   -The turn indicator will update to show whose turn it is.
-   -The game will notify you when a player wins.
+-Click on a piece to select it.
+-Click on a highlighted square to move the piece.
+-The turn indicator will update to show whose turn it is.
+-The game will notify you when a player wins.
 
 
 ## Dependencies
-
-   -Express: Web server framework.
-   -ws: WebSocket library for real-time communication.
+-Express: Web server framework.
+-ws: WebSocket library for real-time communication.
 
 ## License
-
-   -This project is licensed under the Apache License. See the LICENSE file for details.
+-This project is licensed under the Apache License. See the LICENSE file for details.
 
 ## Acknowledgments
-
-   -Thanks to HitWicket for the opportunity to showcase my skills and to present my intrest in the company.
-   -Thanks to the open-source community for providing the tools and libraries used in this project.
+-Thanks to HitWicket for the opportunity to showcase my skills and to present my intrest in the company.
+-Thanks to the open-source community for providing the tools and libraries used in this project.
